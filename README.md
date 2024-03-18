@@ -4,7 +4,7 @@
 Welcome to the OTT Power BI Dashboard repository, a comprehensive analytics tool designed to provide insights into the content libraries of popular streaming platforms like Netflix, Amazon Prime, and Disney+ Hotstar.
 
 **Project Objective:** <br/>
-Provide a comprehensive HR analytics dashboard to facilitate data-driven decision-making for HR professionals.<br/>
+To design OTT Power BI Dashboard that enables detailed analysis and comparison of the content libraries across leading streaming platforms such as Netflix, Amazon Prime, and Disney+ Hotstar, aiming to offer actionable insights for content strategy and viewer preferences. <br/>
 
 **Dashboard Overview** <br/>
 - Netflix, Amazon Prime, and Disney+ Hotstar Pages <br/>
